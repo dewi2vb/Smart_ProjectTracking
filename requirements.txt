@@ -6,6 +6,7 @@ numpy
 pandas
 streamlit
 Pillow
+deep-sort-realtime
 
 # For AI/Deep Learning
 torch
