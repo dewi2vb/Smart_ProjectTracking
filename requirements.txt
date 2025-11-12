@@ -1,0 +1,28 @@
+# Core dependencies
+opencv-python
+opencv-contrib-python
+numpy
+pandas
+streamlit
+Pillow
+
+# For AI/Deep Learning
+torch
+torchvision
+ultralytics  # untuk YOLOv8/YOLO11
+filterpy     # untuk Kalman Filter (digunakan di DeepSORT)
+scipy
+
+# For database or logging (optional)
+SQLAlchemy
+
+# For handling video stream
+ffmpeg-python
+requests
+
+# For real-time processing
+asyncio
+
+# For plotting or visual analytics in Streamlit
+matplotlib
+plotly

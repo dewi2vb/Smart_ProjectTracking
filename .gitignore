@@ -1,0 +1,21 @@
+# Folder dan environment
+__pycache__/
+tracking_env39/
+env/
+.venv/
+
+# File model & data besar
+*.pt
+*.zip
+*.csv
+*.mp4
+*.avi
+
+# File notebook
+*.ipynb_checkpoints/
+*.ipynb
+
+# File sistem
+*.log
+*.DS_Store
+Thumbs.db
