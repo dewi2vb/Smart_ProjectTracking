@@ -934,5 +934,6 @@ st.sidebar.info(
     - Turunkan confidence threshold
     - Periksa RTSP stream di VLC player
     - Pastikan ada orang dalam frame
+    Create By Dewi2vb
     """
 )
